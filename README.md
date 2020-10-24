@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Java / C++
+- 📫 How to reach me: zhangmengshen@mail.sdu.edu.cn
